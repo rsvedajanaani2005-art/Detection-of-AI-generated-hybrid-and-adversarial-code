@@ -1,4 +1,4 @@
-# SemEval-2026 Task 13 – Subtask C  
+# SemEval-2026 Task 13 – Subtask A and C  
 ## Detection of AI-Generated, Hybrid, and Adversarial Code
 
 This repository contains our implementation for **SemEval-2026 Task 13, Subtask C**, which focuses on detecting nuanced authorship patterns in source code.
